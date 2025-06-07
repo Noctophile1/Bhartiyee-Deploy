@@ -21,11 +21,14 @@ jinja2
 lxml
 motor
 natsort
+openai
+reportlab
 par2cmdline-turbo
 pillow
 psutil
 pycountry
 pymongo
+pyrogram==2.0.77
 pyrofork==2.2.11
 python-magic
 pytz
