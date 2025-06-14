@@ -22,7 +22,6 @@ lxml
 motor
 natsort
 openai
-reportlab
 par2cmdline-turbo
 pillow
 psutil
@@ -32,6 +31,7 @@ pyrofork==2.2.11
 python-magic
 pytz
 qbittorrent-api
+reportlab
 requests
 speedtest-cli
 telegraph
