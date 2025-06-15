@@ -27,6 +27,7 @@ pillow
 psutil
 pycountry
 pymongo
+pyrogram==2.0.77
 pyrofork==2.2.11
 python-magic
 pytz
