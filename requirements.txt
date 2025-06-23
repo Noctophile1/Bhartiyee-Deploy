@@ -35,7 +35,6 @@ reportlab
 requests
 speedtest-cli
 telegraph
-torrentgod
 tenacity
 tgcrypto
 urllib3
